@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,SAAS,EAAC,IAAI;CAEjB",
+    "sources": [
+        "howitworks.scss"
+    ],
+    "names": [],
+    "file": "howitworks.css"
+}
