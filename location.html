@@ -1,28 +1,61 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-</head>
-<body>
+<html>  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>EAGLE</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">WebSiteName</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="safety.html">Safety</a></li>
-      <li><a href="howitworks.html">How to use it</a></li>
-      <li class="active"><a href="#">Locations</a></li>
-    </ul>
-  </div>
-</nav>
+    <link rel="stylesheet" href="assets/css/main.css">
+    <style>
+    .location-head {
+        background: url(assets/img/Locationsheader.jpeg) center/cover;
+    }
+    </style>
+  </head>
+  <body>
+      <section class="hero is-info is-fullheight">
+  
+        <div class="hero-body location-head">
+            <div class="container has-text-centered">
+                <div class="column is-6 is-offset-3">
+                    <h1 class="title">
+                        Locations
+                    </h1>
+                    <h2 class="subtitle">
+                        We are available all over the world.
+                    </h2>
+                </div>
+            </div>
+        </div>
+      </section>
 
-</body>
+      <div class="row columns">
+          <div class="column is-one-third">
+              <div class="card large">
+                  <div class="card-image">
+                      <figure class="image">
+                          <img src="https://images.unsplash.com/photo-1475778057357-d35f37fa89dd?dpr=1&auto=compress,format&fit=crop&w=1920&h=&q=80&cs=tinysrgb&crop=" alt="Image">
+                      </figure>
+                  </div>
+                  <div class="card-content">
+                      <div class="media">
+                          <div class="media-left">
+                          </div>
+                          <div class="media-content">
+                              <p class="title is-4 no-padding">Europe</p>
+                          </div>
+                      </div>
+                      <div class="content">
+                          The Beast stumbled in the dark for it could no longer see the path. It started to fracture and weaken, trying to reshape itself into the form of metal. Even the witches would no longer lay eyes upon it, for it had become hideous and twisted.
+                          <div class="background-icon"><span class="icon-twitter"></span></div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          
+  
+  <script src="../js/bulma.js"></script>
+  <script src="../js/tabs.js"></script>
+  </body>
 </html>
