@@ -1,4 +1,4 @@
-.hero-body{
+/* .hero-body{
     background-image: url('assets/img/eagle.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -7,6 +7,7 @@
 .container{
     background-image: url('assets/img/eagle.jpg');
 }
+*/
 .iframe-container{
     position: relative;
     overflow: hidden;
@@ -20,4 +21,3 @@
     width: 100%;
     border:0;
 }
-
