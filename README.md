@@ -6,10 +6,14 @@
 
 # Company vision and mission
 
-  Our vision is to see that the future generation has a better environment and that their dreams can be seen realised without the  threat of climate change. We believe that better mobility with new technology techniques will add value on decreasing climate disasters. The CO2 (carbon dioxide) produced by cars can be at least eliminated by this technology.
+ ## Our vision is to see that the future generation has a better environment and that their dreams can be seen realised   without the  threat of climate change. We believe that better means of mobility/transportation with new technology techniques will add value on decreasing climate disasters. The CO2 (carbon dioxide) produced by cars can be at least eliminated by this technology.
   ---
-  Our mission is to provide means of better mobility by minimising and eradicating air pollution, stress caused by traffic on daily basis commuting to and from work and to bring joy and fun. Wouldn't be fun to fly and not stuck in traffic and seeing nice views from the sky? Of course it would! We hope to work with government institutions, small and big companies and organisations. Moreover, to reduce fatal road accidents and initiating future transportation means.
+## Our mission is to provide means of better mobility by minimising and eradicating air pollution, stress caused by traffic on daily basis commuting to and from work and to bring joy and fun. Wouldn't be fun to fly and not stuck in traffic and seeing nice views from the sky? Of course it would! We hope to work with government institutions, small and big companies and organisations. Moreover, to reduce fatal road accidents and initiating future transportation means.
 ---
+[![Preview](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
+
 - The company seeks to improve the environment.
 - It's mission is to overcomer the issue of climate change and heavy traffic on our roads.
 - Also to see that the new technology is accessible to everyone with affordable price.
