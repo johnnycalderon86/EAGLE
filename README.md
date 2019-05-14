@@ -10,7 +10,7 @@
   ---
 ## Our mission is to provide means of better mobility by minimising and eradicating air pollution, stress caused by traffic on daily basis commuting to and from work and to bring joy and fun. Wouldn't be fun to fly and not stuck in traffic and seeing nice views from the sky? Of course it would! We hope to work with government institutions, small and big companies and organisations. Moreover, to reduce fatal road accidents and initiating future transportation means.
 ---
-[![Preview]https://cdn.hiconsumption.com/wp-content/uploads/2019/03/Jetpack-Aviation-Speeder-Flying-Motorcycle-0-Hero.jpg](https://www.youtube.com/watch?v=0BgbPilrsyw=Jetpack Speeder)
+[![Preview]](https://www.youtube.com/watch?v=0BgbPilrsyw=Jetpack Speeder)
 
 
 
