@@ -14,7 +14,7 @@
 " target=""><img src="https://www.youtube.com/watch?v=URgznwTph6M" 
 alt="JETPACK SPEEDER" width="240" height="180" border="10" /></a>
 
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 - The company seeks to improve the environment.
 - It's mission is to overcomer the issue of climate change and heavy traffic on our roads.
