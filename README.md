@@ -17,9 +17,26 @@ alt="JETPACK SPEEDER" width="240" height="180" border="10" /></a>
 
 ![alt text](https://github.com/ZukisaNante/EAGLE/blob/master/assets/img/bike.jpeg "The Future")
 
-- The company seeks to improve the environment.
-- It's mission is to overcomer the issue of climate change and heavy traffic on our roads.
-- Also to see that the new technology is accessible to everyone with affordable price.
-- It 
-- It applies the new technology and presents the future technology.
-- It comprises
+# How it works!
+
+- First of all download the app and will show you all the nearby stations/locations.
+- 
+- Reach the location and select the choice of your jetpack.
+- Every jetpack has instructions in it on how to operate it safely.
+- Also emegency number is accessible and our technicians are 24/7 available!
+- From the instructions you will also find some videos that show you how it works to guide you.
+
+# Safety
+
+![alt text](https://www.researchgate.net/profile/Marcelo_Toso/publication/271712726/figure/fig2/AS:614224732622865@1523453996404/Part-of-the-Sequence-Diagram-Implementation-in-accordance-with-IEC-61131-The.png "The Future")
+- All our jetpacks abide to the ISO standards under International Electrotechnical Commission (IEC).
+- Our motto "safety comes first" is one of the priorities we commit ourselves to serve.
+- Instructions are also provided in our app and at the station when you pick up your selected choice.
+- Our jetpacks cannot operate or start the engine withou alcohol and drugs test first.
+- Provided you are under any influence of any of the above mentioned substances the system will freeze the motor, meaning it won't work.
+
+# Locations
+
+> We are situated everywhere in the world as you can see from our app.
+> Our opening times are the same at every location globally.
+> We are open 24/7.
