@@ -1,4 +1,5 @@
 # EAGLE Company
+![alt text](https://github.com/ZukisaNante/EAGLE/blob/master/assets/img/eagle.jpg "The Future")
 
 ### Eagle company was established by four BeCode junior web developers.
 ### They all hold qualifications from different desciplines but web development brings them together.
