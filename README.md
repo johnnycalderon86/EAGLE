@@ -11,7 +11,7 @@
 ## Our mission is to provide means of better mobility by minimising and eradicating air pollution, stress caused by traffic on daily basis commuting to and from work and to bring joy and fun. Wouldn't be fun to fly and not stuck in traffic and seeing nice views from the sky? Of course it would! We hope to work with government institutions, small and big companies and organisations. Moreover, to reduce fatal road accidents and initiating future transportation means.
 ---
 <a href="https://www.youtube.com/watch?v=0BgbPilrsyw=JETPACK SPEEDER
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://www.youtube.com/watch?v=URgznwTph6M" 
 alt="JETPACK SPEEDER" width="240" height="180" border="10" /></a>
 
 
