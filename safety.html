@@ -10,18 +10,29 @@
           background: url(assets/img/safetyfrontpage.jpg) center / cover;
         }
         -->
-     <link rel="stylesheet" href="assets/IlgerCSS/debug.css">
+  <!-- <link rel="stylesheet" href="assets/IlgerCSS/debug.css"> -->
      <style>
-       .how-head {
-        background: url(assets/img/howitworks2.jpg) center/cover;
-       }
+
        .center-how{
          display: flex;
        justify-content: left;
        align-items:center;
        }
 
-     </style>
+       .how-head {
+     /* The image used */
+     background: url(assets/img/safetyparalax.jpeg) center/cover;
+     /* Set a specific height */
+     height: 500px;
+
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+   }
+     </style
+
   </head>
   <body>
     <section class="hero is-large is-warning">
@@ -62,7 +73,7 @@
         </nav>
       </div>
 
-      <div class="hero-body">
+      <div class="hero-body how-head">
         <div class="container has-text-centered">
           <p class="title">
             EAGLE
