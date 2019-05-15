@@ -10,22 +10,34 @@
 <link rel="stylesheet" type="text/css" href="./assets/JohnnyCSS/howitworks.css">
   <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   <style>
-    .how-head {
+    /* .how-head {
      background: url(assets/img/howitworks2.jpg) center/cover;
-    }
+
+    } */
     .center-how{
       display: flex;
     justify-content: left;
     align-items:center;
     }
 
-  </style>
+    .how-head { 
+  /* The image used */
+  background: url(assets/img/howitworks2.jpg) center/cover;
+  /* Set a specific height */
+  height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  </style>    
 
  </head>
 
 <body>
   <section class="hero is-info is-large">
-
 
     <div class="hero-body how-head">
       <div class="container has-text-centered">
@@ -161,8 +173,6 @@
 
                 </figure>
             </section>
-
-
 
 </body>
 
