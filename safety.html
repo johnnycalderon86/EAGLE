@@ -28,32 +28,24 @@
   <!-- Ilger page start -->
   <section id="Safety" class="hero is-large is-warning">
     <div class="hero-head">
-      <nav class="navbar">
+      <nav class="navbar is-primary">
         <div class="container">
           <div class="navbar-brand">
-            <a href="#Home" class="navbar-item">
+            <a class="navbar-item" href="#Home">
               <b>EAGLE</b>
             </a>
-            <span class="navbar-burger burger" data-target="navbarMenuHeroB">
+            <span class="navbar-burger burger" data-target="navbarMenu">
               <span></span>
               <span></span>
               <span></span>
             </span>
           </div>
-          <div id="navbarMenuHeroB" class="navbar-menu">
+          <div id="navbarMenu" class="navbar-menu">
             <div class="navbar-end">
-              <a href="#Home" class="navbar-item">
-                Home
-              </a>
-              <a href="#HowItWorks" class="navbar-item">
-                How it works
-              </a>
-              <a href="#Safety" class="navbar-item">
-                Safety
-              </a>
-              <a href="#Locations" class="navbar-item">
-                Locations
-              </a>
+              <a href="#Home" class="navbar-item is-active">Home</a>
+              <a href="#HowItWorks" class="navbar-item">How it works</a>
+              <a href="#Safety" class="navbar-item">Safety</a>
+              <a href="#Locations" class="navbar-item">Locations</a>
             </div>
           </div>
         </div>
@@ -102,5 +94,18 @@
     </div>
   </section>
   <!-- Ilger page end -->
+  <script type="text/javascript">
+
+    (function() {
+      var burger = document.querySelector('.burger');
+      var nav = document.querySelector('#'+burger.dataset.target);
+
+      burger.addEventListener('click', function(){
+        burger.classList.toggle('is-active');
+        nav.classList.toggle('is-active');
+      });
+    })();
+
+  </script>
 </body>
 </html>
