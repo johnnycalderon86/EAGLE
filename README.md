@@ -27,7 +27,8 @@ alt="JETPACK SPEEDER" width="240" height="180" border="10" /></a>
 
 # Safety
 
-![alt text](https://www.researchgate.net/profile/Marcelo_Toso/publication/271712726/figure/fig2/AS:614224732622865@1523453996404/Part-of-the-Sequence-Diagram-Implementation-in-accordance-with-IEC-61131-The.png "The Future")
+![alt text](https://github.com/ZukisaNante/EAGLE/blob/master/assets/img/jetpack-kit.jpg"The Future")
+
 - All our jetpacks abide to the ISO standards under International Electrotechnical Commission (IEC).
 - Our motto "safety comes first" is one of the priorities we commit ourselves to serve.
 - Instructions are also provided in our app and at the station when you pick up your selected choice.
@@ -35,6 +36,8 @@ alt="JETPACK SPEEDER" width="240" height="180" border="10" /></a>
 - Provided you are under any influence of any of the above mentioned substances the system will freeze the motor, meaning it won't work.
 
 # Locations
+
+![alt text](https://www.researchgate.net/profile/Marcelo_Toso/publication/271712726/figure/fig2/AS:614224732622865@1523453996404/Part-of-the-Sequence-Diagram-Implementation-in-accordance-with-IEC-61131-The.png "The Future")
 
 > We are situated everywhere in the world as you can see from our app.
 > Our opening times are the same at every location globally.
