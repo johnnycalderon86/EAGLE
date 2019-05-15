@@ -40,4 +40,4 @@ alt="JETPACK SPEEDER" width="240" height="180" border="10" /></a>
 > Our opening times are the same at every location globally.
 > We are open 24/7.
 > At all times you sould be able to get hold of our help desk!
-> :@octocat :+1:  :shipit:
+>  :+1: 
