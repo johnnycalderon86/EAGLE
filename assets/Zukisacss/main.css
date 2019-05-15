@@ -1,0 +1,23 @@
+ /* .hero-body{
+    background-image: url('assets/img/eagle.jpg')center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: -1;
+}
+.container{
+    background-image: url('assets/img/eagle.jpg');
+}
+*/
+.iframe-container{
+    position: relative;
+    overflow: hidden;
+    padding: 56.25%;
+}
+.iframe-container iframe{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    border:0;
+}
