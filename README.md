@@ -4,7 +4,7 @@ https://ilger.github.io/EAGLE/
 ![alt text](https://github.com/ZukisaNante/EAGLE/blob/master/assets/img/eagle.jpg "The Future")
 
 > Eagle company was established by four BeCode junior web developers.
-> They all hold qualifications from different desciplines but web development brings them together.
+> They all hold qualifications from diffirent desciplines but web development brings them together.
 > After long discussions on how the company should have impact on our society and economy they decided to come up with an idea on how to overcome traffic and improve environment to avoid climate change disasters.
 
 # Company vision and mission
